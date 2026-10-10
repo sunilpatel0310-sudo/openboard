@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- The top-level element must be input-method. -->
 <input-method xmlns:android="http://schemas.android.com/apk/res/android"
     android:settingsActivity="org.dslul.openboard.inputmethod.latin.settings.SettingsActivity">
     <subtype
@@ -7,16 +6,6 @@
         android:imeSubtypeLocale="en_US"
         android:imeSubtypeMode="keyboard"
         android:imeSubtypeExtraValue="KeyboardLayoutSet=qwerty" />
-    <subtype
-        android:label="@string/subtype_generic"
-        android:imeSubtypeLocale="en_GB"
-        android:imeSubtypeMode="keyboard"
-        android:imeSubtypeExtraValue="KeyboardLayoutSet=qwerty" />
-    <subtype
-        android:label="@string/subtype_generic"
-        android:imeSubtypeLocale="gu"
-        android:imeSubtypeMode="keyboard"
-        android:imeSubtypeExtraValue="KeyboardLayoutSet=gujarati" />
     <subtype
         android:label="@string/subtype_generic"
         android:imeSubtypeLocale="gu"
