@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Custom Barakhadi to English Mapping for SP Keyboard -->
+<Keyboard xmlns:latin="http://schemas.android.com/apk/res-auto">
+    <Row>
+        <Key latin:keySpec="ક" latin:keyOutputText="ka" />
+        <Key latin:keySpec="ખ" latin:keyOutputText="kha" />
+        <Key latin:keySpec="ગ" latin:keyOutputText="ga" />
+        <Key latin:keySpec="ઘ" latin:keyOutputText="gha" />
+        <Key latin:keySpec="ચ" latin:keyOutputText="cha" />
+        <Key latin:keySpec="છ" latin:keyOutputText="chha" />
+        <Key latin:keySpec="જ" latin:keyOutputText="ja" />
+        <Key latin:keySpec="ઝ" latin:keyOutputText="jha" />
+        <Key latin:keySpec="ટ" latin:keyOutputText="ta" />
+        <Key latin:keySpec="ઠ" latin:keyOutputText="tha" />
+    </Row>
+    <Row>
+        <Key latin:keySpec="ડ" latin:keyOutputText="da" />
+        <Key latin:keySpec="ઢ" latin:keyOutputText="dha" />
+        <Key latin:keySpec="ણ" latin:keyOutputText="na" />
+        <Key latin:keySpec="ત" latin:keyOutputText="ta" />
+        <Key latin:keySpec="થ" latin:keyOutputText="tha" />
+        <Key latin:keySpec="દ" latin:keyOutputText="da" />
+        <Key latin:keySpec="ધ" latin:keyOutputText="dha" />
+        <Key latin:keySpec="ન" latin:keyOutputText="na" />
+        <Key latin:keySpec="પ" latin:keyOutputText="pa" />
+        <Key latin:keySpec="ફ" latin:keyOutputText="pha" />
+    </Row>
+    <Row>
+        <Key latin:keySpec="બ" latin:keyOutputText="ba" />
+        <Key latin:keySpec="ભ" latin:keyOutputText="bha" />
+        <Key latin:keySpec="મ" latin:keyOutputText="ma" />
+        <Key latin:keySpec="ય" latin:keyOutputText="ya" />
+        <Key latin:keySpec="ર" latin:keyOutputText="ra" />
+        <Key latin:keySpec="લ" latin:keyOutputText="la" />
+        <Key latin:keySpec="વ" latin:keyOutputText="va" />
+        <Key latin:keySpec="શ" latin:keyOutputText="sha" />
+        <Key latin:keySpec="ષ" latin:keyOutputText="sha" />
+        <Key latin:keySpec="સ" latin:keyOutputText="sa" />
+    </Row>
+    <Row>
+        <Key latin:keySpec="હ" latin:keyOutputText="ha" />
+        <Key latin:keySpec="ળ" latin:keyOutputText="la" />
+        <Key latin:keySpec="ક્ષ" latin:keyOutputText="ksha" />
+        <Key latin:keySpec="જ્ઞ" latin:keyOutputText="gna" />
+        <Key latin:keySpec="ા" latin:keyOutputText="aa" />
+        <Key latin:keySpec="િ" latin:keyOutputText="i" />
+        <Key latin:keySpec="ી" latin:keyOutputText="ee" />
+        <Key latin:keySpec="ુ" latin:keyOutputText="u" />
+        <Key latin:keySpec="ૂ" latin:keyOutputText="oo" />
+        <Key latin:keySpec="ે" latin:keyOutputText="e" />
+        <Key latin:keySpec="ો" latin:keyOutputText="o" />
+    </Row>
+</Keyboard>
