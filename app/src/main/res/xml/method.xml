@@ -1,4 +1,4 @@
-    <!-- Gujarati to English Barakhadi Subtype -->
+<!-- Gujarati to English Barakhadi Subtype -->
     <subtype
         android:label="ગુજરાતી બારાક્ષરી (English Output)"
         android:imeSubtypeLocale="gu"
