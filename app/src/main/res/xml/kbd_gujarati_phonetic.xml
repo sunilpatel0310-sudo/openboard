@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard
+    xmlns:latin="http://schemas.android.com/apk/res/org.dslul.openboard.inputmethod.latin"
+    latin:keyWidth="10.0%p">
+
+    <!-- Row 1 -->
+    <Row>
+        <Key latin:keySpec="ક" latin:moreKeys="ખ" />
+        <Key latin:keySpec="ગ" latin:moreKeys="ઘ" />
+        <Key latin:keySpec="ચ" latin:moreKeys="છ" />
+        <Key latin:keySpec="જ" latin:moreKeys="ઝ" />
+        <Key latin:keySpec="ટ" latin:moreKeys="ઠ" />
+        <Key latin:keySpec="ડ" latin:moreKeys="ઢ" />
+        <Key latin:keySpec="ત" latin:moreKeys="થ" />
+        <Key latin:keySpec="દ" latin:moreKeys="ધ" />
+        <Key latin:keySpec="પ" latin:moreKeys="ફ" />
+        <Key latin:keySpec="બ" latin:moreKeys="ભ" />
+    </Row>
+
+    <!-- Row 2 -->
+    <Row>
+        <Key latin:keySpec="મ" />
+        <Key latin:keySpec="ય" />
+        <Key latin:keySpec="ર" />
+        <Key latin:keySpec="લ" />
+        <Key latin:keySpec="વ" />
+        <Key latin:keySpec="શ" latin:moreKeys="ષ" />
+        <Key latin:keySpec="સ" />
+        <Key latin:keySpec="હ" />
+        <Key latin:keySpec="ળ" />
+        <Key latin:keySpec="ક્ષ" latin:moreKeys="જ્ઞ" />
+    </Row>
+
+    <!-- Row 3 (Vowels & Signs) -->
+    <Row>
+        <Key latin:keySpec="ા" />
+        <Key latin:keySpec="િ" latin:moreKeys="ી" />
+        <Key latin:keySpec="ુ" latin:moreKeys="ૂ" />
+        <Key latin:keySpec="ે" latin:moreKeys="ૈ" />
+        <Key latin:keySpec="ો" latin:moreKeys="ૌ" />
+        <Key latin:keySpec="ં" latin:moreKeys="ઃ" />
+        <Key latin:keySpec="્" />
+        <Key latin:keySpec="અ" latin:moreKeys="આ,ઇ,ઈ,ઉ,ઊ,એ,ઐ,ઓ,ઔ" />
+        <Key
+            latin:keyStyle="deleteKeyStyle"
+            latin:keyWidth="20.0%p" />
+    </Row>
+
+    <!-- Row 4 (Bottom controls) -->
+    <Row latin:keyWidth="10.0%p">
+        <Key
+            latin:keyStyle="toSymbolKeyStyle"
+            latin:keyWidth="15.0%p" />
+        <Key
+            latin:keyStyle="switchLanguageKeyStyle"
+            latin:keyWidth="15.0%p" />
+        <Key
+            latin:keyStyle="spaceKeyStyle"
+            latin:keyWidth="50.0%p" />
+        <Key
+            latin:keyStyle="enterKeyStyle"
+            latin:keyWidth="20.0%p" />
+    </Row>
+</Keyboard>
