@@ -10,5 +10,5 @@
         android:label="@string/subtype_generic"
         android:imeSubtypeLocale="gu"
         android:imeSubtypeMode="keyboard"
-        android:imeSubtypeExtraValue="KeyboardLayoutSet=gujarati_phonetic" />
+        android:imeSubtypeExtraValue="KeyboardLayoutSet=gujarati" />
 </input-method>
