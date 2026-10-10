@@ -9,10 +9,16 @@
     <string name="english_ime_name">SP Keyboard</string>
     <string name="app_name">SP Keyboard</string>
     <string name="spell_checker_service_name">SP Spell Checker</string>
+    <string name="dictionary_pack_client_service_name">SP Dictionary Provider</string>
 
     <!-- Subtype generic name -->
     <string name="subtype_generic">%s</string>
     <string name="subtype_no_language_qwerty">No language (QWERTY)</string>
+    <string name="subtype_no_language_qwertz">No language (QWERTZ)</string>
+    <string name="subtype_no_language_azerty">No language (AZERTY)</string>
+    <string name="subtype_no_language_dvorak">No language (Dvorak)</string>
+    <string name="subtype_no_language_colemak">No language (Colemak)</string>
+    <string name="subtype_no_language_pcqwerty">No language (PC)</string>
 
     <!-- General Settings -->
     <string name="ime_settings">SP Keyboard Settings</string>
@@ -21,24 +27,66 @@
     <!-- Language settings -->
     <string name="user_languages">Languages</string>
     <string name="user_languages_summary">Manage input languages</string>
+    <string name="add_language">Add language</string>
 
     <!-- Preferences -->
     <string name="preferences_category">Preferences</string>
     <string name="settings_theme">Themes</string>
     <string name="settings_theme_summary">Keyboard themes and styling</string>
+    <string name="custom_theme">Custom theme</string>
+    <string name="theme_color">Color</string>
+    <string name="theme_key_borders">Key borders</string>
+    <string name="theme_amoled">AMOLED / Pure Black</string>
 
     <!-- Keys & Layouts -->
     <string name="show_number_row">Number row</string>
     <string name="show_number_row_summary">Show always number row on top</string>
     <string name="show_emoji_key">Show emoji key</string>
     <string name="show_emoji_key_summary">Show dedicated emoji key</string>
+    <string name="key_long_press_delay">Key long-press delay</string>
+    <string name="keyboard_height">Keyboard height</string>
+
+    <!-- Sound & Vibration -->
+    <string name="vibrate_on_keypress">Vibrate on keypress</string>
+    <string name="sound_on_keypress">Sound on keypress</string>
+    <string name="keypress_vibration_duration">Keypress vibration duration</string>
+    <string name="keypress_sound_volume">Keypress sound volume</string>
 
     <!-- Dictionary & Text correction -->
     <string name="text_correction">Text correction</string>
     <string name="auto_correction">Auto-correction</string>
     <string name="auto_correction_summary">Spacebar and punctuation automatically correct mistyped words</string>
+    <string name="auto_correction_threshold_mode">Auto-correction</string>
+    <string name="auto_capitalization">Auto-capitalization</string>
+    <string name="auto_capitalization_summary">Capitalize the first word of each sentence</string>
+    <string name="double_space_period">Double-space period</string>
+    <string name="double_space_period_summary">Double tapping on spacebar inserts a period followed by a space</string>
+    <string name="next_word_suggestions">Next-word suggestions</string>
+    <string name="next_word_suggestions_summary">Use previous words in making suggestions</string>
+
+    <!-- Gesture Typing -->
+    <string name="gesture_typing">Gesture Typing</string>
+    <string name="gesture_input">Enable gesture typing</string>
+    <string name="gesture_preview">Gesture preview</string>
+    <string name="gesture_trail">Dynamic floating preview</string>
+
+    <!-- Clipboard & Emoji -->
+    <string name="clipboard">Clipboard</string>
+    <string name="clipboard_history">Clipboard history</string>
+    <string name="clipboard_history_summary">Save copied items in clipboard history</string>
+    <string name="clipboard_history_retention_time">Retention time</string>
 
     <!-- About & Help -->
     <string name="about_category">About</string>
     <string name="version">Version: 1.4.5</string>
+    <string name="source_code">Source code</string>
+    <string name="donate">Donate</string>
+
+    <!-- System Strings -->
+    <string name="setup_step1_title">Enable in Settings</string>
+    <string name="setup_step2_title">Switch Input Method</string>
+    <string name="setup_step3_title">Ready to type!</string>
+    <string name="setup_step1_action">Enable SP Keyboard</string>
+    <string name="setup_step2_action">Select SP Keyboard</string>
+    <string name="setup_finish_action">Finished</string>
 </resources>
