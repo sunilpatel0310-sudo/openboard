@@ -8,4 +8,10 @@
 
     <!-- Default keypress sound volume percentage (0 to 100) -->
     <integer name="config_default_keypress_sound_volume">40</integer>
+
+    <!-- Keyboard Height Scale Percentage (100 is standard, 110 gives comfortable typing space) -->
+    <integer name="config_default_keyboard_height_scale">110</integer>
+
+    <!-- Bottom Padding / Navbar Gap (in dp) for comfortable thumb reach -->
+    <integer name="config_default_bottom_padding_dp">10</integer>
 </resources>
