@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default vibration duration in milliseconds (Haptic feedback) -->
+    <integer name="config_default_vibration_duration_ms">15</integer>
+
+    <!-- Clipboard history retention time (in minutes) -->
+    <integer name="config_clipboard_history_retention_minutes">1440</integer>
+</resources>
