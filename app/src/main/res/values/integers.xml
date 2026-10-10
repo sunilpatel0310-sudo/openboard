@@ -5,4 +5,7 @@
 
     <!-- Clipboard history retention time (in minutes) -->
     <integer name="config_clipboard_history_retention_minutes">1440</integer>
+
+    <!-- Default keypress sound volume percentage (0 to 100) -->
+    <integer name="config_default_keypress_sound_volume">40</integer>
 </resources>
