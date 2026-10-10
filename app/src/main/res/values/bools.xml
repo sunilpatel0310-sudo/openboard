@@ -18,7 +18,29 @@
 */
 -->
 <resources>
-    <!-- Whether this input method should be used as the default for a locale. Override it
-         for supported languages. -->
+    <!-- Default Locale Settings -->
     <bool name="im_is_default">false</bool>
+
+    <!-- Basic Custom Layouts -->
+    <bool name="config_default_number_row">true</bool>
+    <bool name="config_default_space_trackpad">true</bool>
+    <bool name="config_default_delete_swipe">true</bool>
+
+    <!-- Theme & Visual Styling -->
+    <bool name="config_default_amoled_mode">true</bool>
+    <bool name="config_default_key_borders">true</bool>
+    <bool name="config_default_popup_on_keypress">true</bool>
+
+    <!-- Keypress Sound -->
+    <bool name="config_default_sound_on_keypress">true</bool>
+
+    <!-- Advanced Typing & Punctuation Features -->
+    <bool name="config_default_show_hints">true</bool>
+    <bool name="config_default_autospace_after_punctuation">true</bool>
+    <bool name="config_default_use_double_space_period">true</bool>
+    <bool name="config_default_gesture_preview_trail">true</bool>
+
+    <!-- Language & Input Switches -->
+    <bool name="config_default_long_press_space_to_change_lang">true</bool>
+    <bool name="config_default_show_language_switch_key">true</bool>
 </resources>
