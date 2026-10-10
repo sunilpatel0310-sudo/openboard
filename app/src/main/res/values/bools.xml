@@ -43,4 +43,10 @@
     <!-- Language & Input Switches -->
     <bool name="config_default_long_press_space_to_change_lang">true</bool>
     <bool name="config_default_show_language_switch_key">true</bool>
+
+    <!-- One-Handed Mode Support -->
+    <bool name="config_default_one_handed_mode_enabled">true</bool>
+
+    <!-- Dedicated Calculator Style NumPad Support -->
+    <bool name="config_default_numpad_keypad_layout">true</bool>
 </resources>
