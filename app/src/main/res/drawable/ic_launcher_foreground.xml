@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="0.65"
+        android:scaleY="0.65"
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Modern Blue Keyboard Outline -->
+        <path
+            android:fillColor="#1E88E5"
+            android:pathData="M20,5h-16c-2.2,0 -4,1.8 -4,4v12c0,2.2 1.8,4 4,4h16c2.2,0 4,-1.8 4,-4V9c0,-2.2 -1.8,-4 -4,-4zM18,19H6c-0.6,0 -1,-0.4 -1,-1V11c0,-0.6 0.4,-1 1,-1h12c0.6,0 1,0.4 1,1v7c0,0.6 -0.4,1 -1,1z" />
+        <!-- Glowing Accent Keys -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M8,13h2v2H8zM11,13h2v2h-2zM14,13h2v2h-2zM8,16h8v1H8z" />
+    </group>
+</vector>
