@@ -1,6 +1,26 @@
-<!-- Gujarati to English Barakhadi Subtype -->
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The top-level element must be input-method. -->
+<input-method xmlns:android="http://schemas.android.com/apk/res/android"
+    android:settingsActivity="org.dslul.openboard.inputmethod.latin.settings.SettingsActivity"
+    android:icon="@drawable/ic_launcher_keyboard">
     <subtype
-        android:label="ગુજરાતી બારાક્ષરી (English Output)"
+        android:label="@string/subtype_generic"
+        android:imeSubtypeLocale="en_US"
+        android:imeSubtypeMode="keyboard"
+        android:imeSubtypeExtraValue="KeyboardLayoutSet=qwerty" />
+    <subtype
+        android:label="@string/subtype_generic"
+        android:imeSubtypeLocale="en_GB"
+        android:imeSubtypeMode="keyboard"
+        android:imeSubtypeExtraValue="KeyboardLayoutSet=qwerty" />
+    <subtype
+        android:label="@string/subtype_generic"
         android:imeSubtypeLocale="gu"
         android:imeSubtypeMode="keyboard"
-        android:imeSubtypeExtraValue="KeyboardLayoutSet=kbd_gujarati_barakhadi_to_en" />
+        android:imeSubtypeExtraValue="KeyboardLayoutSet=gujarati" />
+    <subtype
+        android:label="@string/subtype_generic"
+        android:imeSubtypeLocale="gu"
+        android:imeSubtypeMode="keyboard"
+        android:imeSubtypeExtraValue="KeyboardLayoutSet=gujarati_phonetic" />
+</input-method>
