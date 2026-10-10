@@ -44,19 +44,12 @@
     <bool name="config_default_long_press_space_to_change_lang">true</bool>
     <bool name="config_default_show_language_switch_key">true</bool>
 
-    <!-- One-Handed Mode & NumPad Layout -->
+    <!-- One-Handed Mode Support -->
     <bool name="config_default_one_handed_mode_enabled">true</bool>
+
+    <!-- Dedicated Calculator Style NumPad Support -->
     <bool name="config_default_numpad_keypad_layout">true</bool>
 
-    <!-- Privacy: Incognito / Private Browsing Mode Support -->
+    <!-- Incognito / Private Keyboard Mode Support -->
     <bool name="config_default_incognito_mode_enabled">true</bool>
-
-    <!-- Utility: Clipboard Pinning Support -->
-    <bool name="config_default_clipboard_pinning_enabled">true</bool>
-
-    <!-- Utility: Emoji Search Bar in Emoji Palette -->
-    <bool name="config_default_emoji_search_enabled">true</bool>
-
-    <!-- Typing: Smart Auto-Capitalization -->
-    <bool name="config_default_auto_cap">true</bool>
 </resources>
